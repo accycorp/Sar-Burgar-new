@@ -1,0 +1,6 @@
+{
+  "name": "SAR Burger - Gourmet Gastronomy",
+  "description": "High-impact gourmet burger shop and artisanal dining experience with online ordering, menu showcase, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
